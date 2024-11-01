@@ -1,4 +1,4 @@
-- 篮球
-- 音乐
-- 游戏
-- 读书
+- basketball
+- music
+- games
+- books
