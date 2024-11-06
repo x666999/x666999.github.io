@@ -1,9 +1,9 @@
-- First-prize Academic Scholarship, 2023.
+- 假面骑士
 
-- Freshman Academic Scholarship, 2022.
+- 奥特曼
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 钢铁侠
 
-- First-prize Enterprise Scholarship, 2021.
+- 蜘蛛侠
 
-- First-prize Academic Scholarship, 2019.
+- 铠甲勇士
